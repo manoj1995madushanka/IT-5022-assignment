@@ -1,0 +1,6 @@
+Dataset URL : https://www.kaggle.com/datasets/camnugent/sandp500?select=getSandP.py
+
+Github Repository : https://github.com/manoj1995madushanka/IT-5022-assignment
+
+MS26902166 Youtube Video :
+MS26902470 Youtube Video :
