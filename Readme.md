@@ -1,1 +1,1 @@
-This is the Readme from dinesh!!
+DataSet Link : https://www.kaggle.com/datasets/camnugent/sandp500?select=getSandP.py
